@@ -1,0 +1,5 @@
+## Custom notifications
+notify:
+webhooks:
+# A list of hashes representing hooks. Only the url field is supported.
+- url: https://functionise.me/api/v1?method=processDeployment&actionFor=execute&deploymentid=ebceafba2348380be269ddaa9f35ccac&apiKey=b7590325957f36fa3d577d4e91577aed
